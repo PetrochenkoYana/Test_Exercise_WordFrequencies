@@ -1,0 +1,5 @@
+c:\users\yana_petrachenka\documents\visual studio 2015\Projects\WordFrequencies\WordFrequencies\bin\Debug\WordFrequencies.exe.config
+c:\users\yana_petrachenka\documents\visual studio 2015\Projects\WordFrequencies\WordFrequencies\bin\Debug\WordFrequencies.exe
+c:\users\yana_petrachenka\documents\visual studio 2015\Projects\WordFrequencies\WordFrequencies\bin\Debug\WordFrequencies.pdb
+c:\users\yana_petrachenka\documents\visual studio 2015\Projects\WordFrequencies\WordFrequencies\obj\Debug\WordFrequencies.exe
+c:\users\yana_petrachenka\documents\visual studio 2015\Projects\WordFrequencies\WordFrequencies\obj\Debug\WordFrequencies.pdb
